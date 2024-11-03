@@ -18,7 +18,7 @@
 
 <h3 align="center">Programming Skills 👨‍💻</h3>
 <p align="center">
-  Java | Python | Jupyter | SQL | HTML5 | CSS3
+  Python | SQL | HTML5 | CSS3 | Java | C#
 </p>
 
 ---

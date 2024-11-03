@@ -1,8 +1,4 @@
-<h1 align="center">Hello! 👋</h1>
-
----
-
-<h2 align="center">I'm Christopher Diaz!</h2>
+<h1 align="center">Hello! 👋<br>I'm Christopher Diaz!</h1>
 <p align="center">A dedicated Information Systems student with a passion for detail and precision.</p>
 
 ---
